@@ -6,7 +6,7 @@ Some brief conclusions:
 
 ![](Formate-de-serializare-studiu-api-uri.png)
 
-The goal is to keep track of the existing data outlets. It might prove useful in certain projects when readily available date is needed.
+The goal is to keep track of the existing data outlets. It might prove useful in certain projects when readily available dats are needed.
 
 ![](by-protocol.png)
 
