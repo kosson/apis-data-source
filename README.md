@@ -4,11 +4,11 @@ These are API data gathered to realize quick access and to keep a tab on what is
 
 Some brief conclusions:
 
-![](Formate-de-serializare-studiu-api-uri.png)
+![formate de serializare analizate](Formate-de-serializare-studiu-api-uri.png)
 
 The goal is to keep track of the existing data outlets. It might prove useful in certain projects when readily available dats are needed.
 
-![](by-protocol.png)
+![care sunt protocoalele folosite](by-protocol.png)
 
 Last update August 2023.
 
